@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Python developer**
 
-- 💬 Ask me about **Data science,Deep learning**
+- 💬 Ask me about **Python Development**
 
 - 📫 How to reach me **archnay804@gmail.com**
 
